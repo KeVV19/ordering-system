@@ -1,7 +1,2 @@
 # Ordering-System
 
-MVP:
--
--...
-
-Techstack:
